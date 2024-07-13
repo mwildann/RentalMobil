@@ -1,0 +1,25 @@
+{
+    "cars": [
+        {
+            "id": "1",
+            "name": "HRV 2022",
+            "description": "Mesin:6.5L - V12 Tenaga Kuda:730hp - Kecepata Maksimum:217mph - 0-60 mph:2.9 detik",
+            "image": "HRV.jpg",
+            "price": "100"
+        },
+        {
+            "id": "2",
+            "name": "HRV 2024",
+            "description": "Mesin:7.5L - V12 Tenaga Kuda:830hp - Kecepata Maksimum:317mph - 0-50mph:1.9 detik",
+            "image": "HRV.jpg",
+            "price": "150"
+        },
+        {
+            "id": "3",
+            "name": "Innova Reborn",
+            "description": "Mesin:5.5L - V12 Tenaga Kuda:430hp - Kecepata Maksimum:181mph - 0-50mph:3.9 detik",
+            "image": "inova.jpg",
+            "price": "90"
+        }
+    ]
+}
